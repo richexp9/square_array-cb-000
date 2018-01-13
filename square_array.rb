@@ -1,4 +1,4 @@
 def square_array(array)
-  array.foreach
+  array.each_char { |chr|  }
   # your code here
 end
